@@ -147,3 +147,5 @@ This project demonstrates:
 - Production reliability thinking
 
 It reflects real-world SRE and platform engineering practices used in high-scale consumer internet systems.
+
+Project completed for SRE scale simulation assignment.
